@@ -4,7 +4,7 @@
     requiredProperties: [],
     events: {
       'app.activated':  'updateOptions',
-      'ticket.assignee.group.id.changed': 'updateOptions',
+      'ticket.assignee.group.id.changed': 'updateOptions'
     },
     updateOptions: function(res) {
         var current = this.ticket().assignee().group().name();
@@ -25,6 +25,6 @@
                 this.hide();
             }
         });
-    },
+    }
   };
 }());
