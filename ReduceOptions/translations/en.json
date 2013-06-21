@@ -1,0 +1,14 @@
+{
+  "app": {
+    "description":  "Reduce Options",
+    "name":         "Reduce Options",
+     "parameters" : { }
+  },
+  "global": {
+		"error": {
+			"title"     : "An error occurred",
+			"message"   : "Please try the previous action again.",
+			"data"      : "Ticket data could not be read."
+		}
+	}
+}

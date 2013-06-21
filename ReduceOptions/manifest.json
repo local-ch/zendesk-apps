@@ -1,0 +1,12 @@
+{
+  "author": {
+	  "name" :"Philipp Keller",
+	  "email": "philipp.keller@local.ch"
+  },
+  "parameters": [],
+	"frameworkVersion": "0.5",
+	"location":"ticket_sidebar",
+  "defaultLocale": "en",
+  "private": true,
+  "singleInstall": true
+}
